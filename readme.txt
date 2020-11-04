@@ -1,4 +1,4 @@
-A club track located near Savanah Georgia USA.
+A club track located near Savannah Georgia USA.
 
 https://en.wikipedia.org/wiki/Roebling_Road_Raceway
 http://www.roeblingroad.com/
