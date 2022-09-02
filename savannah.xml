@@ -49,7 +49,7 @@ the Free Software Foundation; either version 2 of the License, or
       <attnum name="color B2" val="0.2" />
       <attstr name="texture name" val="start.png" />
       <attstr name="texture type" val="discrete" />
-      <attnum name="texture size" unit="m" val="2.0" />
+      <attnum name="texture size" unit="m" val="1.4" />
       <attstr name="texture link with previous" val="yes" />
       <attstr name="texture start on boundary" val="yes" />
       <attnum name="texture mipmap" unit="m" val="0.0" />
