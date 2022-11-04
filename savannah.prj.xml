@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<java version="18.0.1.1" class="java.beans.XMLDecoder">
- <object class="utils.Properties">
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="utils.Properties" id="Properties0">
   <void property="currentA">
    <double>-6.283184661407826</double>
   </void>
@@ -12,6 +12,20 @@
   </void>
   <void property="curveNameCount">
    <int>46</int>
+  </void>
+  <void property="image">
+   <string>savannah.prj.png</string>
+  </void>
+  <void property="imageScale">
+   <double>2.425</double>
+  </void>
+  <void property="imgOffset">
+   <void property="x">
+    <double>-536.0</double>
+   </void>
+   <void property="y">
+    <double>603.0</double>
+   </void>
   </void>
   <void property="path">
    <string>C:\Users\Bob\speed-dreams-code\data\tracks\road\savannah</string>
